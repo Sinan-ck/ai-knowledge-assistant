@@ -1,0 +1,128 @@
+[
+  {
+    "q": "What is the refund policy?",
+    "ok": true,
+    "note": "keywords=ok source=ok",
+    "secs": 12.6,
+    "answer": "According to the provided context, the refund policy is as follows:\n\n- Withdrawal within 7 days of the batch start date: 100 percent of the tuition fe"
+  },
+  {
+    "q": "How long is the Full Stack Web Development course?",
+    "ok": true,
+    "note": "keywords=ok source=ok",
+    "secs": 2.6,
+    "answer": "According to the [Source: 01_course_brochure.pdf, page 1], the Full Stack Web Development course is 16 weeks long."
+  },
+  {
+    "q": "When does the Data Science and AI batch start?",
+    "ok": true,
+    "note": "keywords=ok source=ok",
+    "secs": 1.4,
+    "answer": "The Data Science and AI batch starts on 19 January 2027. (Source: 01_course_brochure.pdf, page 1)"
+  },
+  {
+    "q": "How many students are in each batch?",
+    "ok": true,
+    "note": "keywords=ok source=ok",
+    "secs": 1.8,
+    "answer": "According to the provided context, each batch is limited to 30 students. (Source: 01_course_brochure.pdf, page 2)"
+  },
+  {
+    "q": "What attendance is needed for certification?",
+    "ok": true,
+    "note": "keywords=ok source=ok",
+    "secs": 3.0,
+    "answer": "According to the FAQ document (04_faq.pdf, page 1), students who maintain at least 75 percent attendance and pass the final assessment receive a Certi"
+  },
+  {
+    "q": "How much is the tuition for Cloud and DevOps?",
+    "ok": true,
+    "note": "keywords=ok source=ok",
+    "secs": 2.1,
+    "answer": "According to the source file [Source: 02_fee_structure.pdf, page 1], the tuition for Cloud and DevOps is INR 55,000."
+  },
+  {
+    "q": "What is the early-bird discount?",
+    "ok": true,
+    "note": "keywords=ok source=ok",
+    "secs": 2.6,
+    "answer": "According to the source file, the early-bird discount is 10 percent off the tuition fee, which can be received if the full payment is made before 15 D"
+  },
+  {
+    "q": "Can I combine the early-bird discount with a scholarship?",
+    "ok": true,
+    "note": "keywords=ok source=ok",
+    "secs": 1.1,
+    "answer": "No, the early-bird discount and the merit scholarship cannot be combined. (Source: 02_fee_structure.pdf, page 2)"
+  },
+  {
+    "q": "What is the average placement package?",
+    "ok": true,
+    "note": "keywords=ok source=ok",
+    "secs": 1.8,
+    "answer": "According to the report, the average placement package is 5.2 LPA. (Source: 03_internship_placement.pdf, page 1)"
+  },
+  {
+    "q": "How much attendance do I need for placement assistance?",
+    "ok": true,
+    "note": "keywords=ok source=ok",
+    "secs": 1.4,
+    "answer": "According to page 2 of the 03_internship_placement.pdf, you need at least 80 percent attendance to be eligible for placement assistance."
+  },
+  {
+    "q": "How long does the internship last?",
+    "ok": true,
+    "note": "keywords=ok source=ok",
+    "secs": 1.3,
+    "answer": "According to the provided context, the internship lasts 3 months. (Source: 03_internship_placement.pdf, page 1)"
+  },
+  {
+    "q": "Do I need my own laptop?",
+    "ok": true,
+    "note": "keywords=ok source=ok",
+    "secs": 1.2,
+    "answer": "Yes. According to the Northbridge Institute of Technology Frequently Asked Questions (04_faq.pdf, page 1), students must bring a laptop with at least "
+  },
+  {
+    "q": "What is the capital of France?",
+    "ok": true,
+    "note": "correctly refused",
+    "secs": 0.1,
+    "answer": "I couldn't find this information in the uploaded documents."
+  },
+  {
+    "q": "What is the weather in Kochi today?",
+    "ok": true,
+    "note": "correctly refused",
+    "secs": 0.5,
+    "answer": "I couldn't find this information in the uploaded documents."
+  },
+  {
+    "q": "Who is the CEO of Northbridge Institute?",
+    "ok": true,
+    "note": "correctly refused",
+    "secs": 2.0,
+    "answer": "I couldn't find this information in the uploaded documents."
+  },
+  {
+    "q": "How much does a competitor institute charge for web development?",
+    "ok": true,
+    "note": "correctly refused",
+    "secs": 2.1,
+    "answer": "I couldn't find this information in the uploaded documents."
+  },
+  {
+    "q": "Does the institute offer a Cybersecurity course?",
+    "ok": true,
+    "note": "correctly refused",
+    "secs": 1.9,
+    "answer": "I couldn't find this information in the uploaded documents."
+  },
+  {
+    "q": "Write me a poem about the ocean.",
+    "ok": true,
+    "note": "correctly refused",
+    "secs": 0.0,
+    "answer": "I couldn't find this information in the uploaded documents."
+  }
+]

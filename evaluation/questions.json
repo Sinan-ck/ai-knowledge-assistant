@@ -1,0 +1,20 @@
+[
+  {"q": "What is the refund policy?", "keywords": ["100 percent", "50 percent"], "source": "02_fee_structure.pdf"},
+  {"q": "How long is the Full Stack Web Development course?", "keywords": ["16 weeks"], "source": "01_course_brochure.pdf"},
+  {"q": "When does the Data Science and AI batch start?", "keywords": ["19 January"], "source": "01_course_brochure.pdf"},
+  {"q": "How many students are in each batch?", "keywords": ["30"], "source": "01_course_brochure.pdf"},
+  {"q": "What attendance is needed for certification?", "keywords": ["75"], "source": "01_course_brochure.pdf"},
+  {"q": "How much is the tuition for Cloud and DevOps?", "keywords": ["55,000"], "source": "02_fee_structure.pdf"},
+  {"q": "What is the early-bird discount?", "keywords": ["10 percent"], "source": "02_fee_structure.pdf"},
+  {"q": "Can I combine the early-bird discount with a scholarship?", "keywords": ["not", "combined"], "source": "02_fee_structure.pdf"},
+  {"q": "What is the average placement package?", "keywords": ["5.2"], "source": "03_internship_placement.pdf"},
+  {"q": "How much attendance do I need for placement assistance?", "keywords": ["80"], "source": "03_internship_placement.pdf"},
+  {"q": "How long does the internship last?", "keywords": ["3 months"], "source": "03_internship_placement.pdf"},
+  {"q": "Do I need my own laptop?", "keywords": ["laptop", "8 GB"], "source": "04_faq.pdf"},
+  {"q": "What is the capital of France?", "refuse": true},
+  {"q": "What is the weather in Kochi today?", "refuse": true},
+  {"q": "Who is the CEO of Northbridge Institute?", "refuse": true},
+  {"q": "How much does a competitor institute charge for web development?", "refuse": true},
+  {"q": "Does the institute offer a Cybersecurity course?", "refuse": true},
+  {"q": "Write me a poem about the ocean.", "refuse": true}
+]
