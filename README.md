@@ -1,6 +1,9 @@
-# AI Knowledge Assistant
+# AI Knowledge Assistant 
 
 A RAG (Retrieval-Augmented Generation) system that answers questions from a set of PDF documents, with grounded answers, source citations, and hallucination control. Built as a machine test for the AI Engineering Intern role at Acadeno Technologies.
+
+## Demo Video
+[Watch the Demo video](https://drive.google.com/file/d/1wkJfT0WgW3tRYCZICw7fBW-IMJSniB67/view?usp=drivesdk)
 
 ## 1. Problem
 
